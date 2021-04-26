@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
-- file: one
+- file: one/one
   sections:
-    - file: one1
-    - file: one2
+    - file: one/one1
+    - file: one/one2
